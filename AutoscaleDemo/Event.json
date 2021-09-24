@@ -1,0 +1,11 @@
+{
+  "id": "e77ddf9b-eb01-40c9-b034-ee3ab36567e6",
+  "Amount": 43,
+  "TransactionType": "payment",
+  "Currency": "USD",
+  "Username": "Alice",
+  "Country": "Wonderland",
+  "Address": "123 Contoso Way",
+  "Date": "2020-05-07",
+  "Timestamp": "2020-05-07T00:06:17.1531888+00:00"
+}
